@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "560c50875c27f0fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9384517d0af03403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "471da4013a4e693c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/University-Prep/University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7fd9f645eaf3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa821fd9b87c1b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b223b610532f854",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd34d80b2fdb1859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "385946e217a504b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07b21959cd1d5c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75fc652c2d868547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f750e14baaabb2c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/University-Prep/University.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eca9eeeba869748a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/University-Prep/University.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74953ad7b8f3497a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f1e846b18733d42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/University-Prep/University.md"
+              }
+            }
+          },
+          {
+            "id": "1514bb9ac8bd9717",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "471da4013a4e693c",
+  "lastOpenFiles": [
+    "School/University-Prep/University.md",
+    "School/University-Prep/University Scholarships.md",
+    "Welcome.md",
+    "School/University-Prep",
+    "School"
+  ]
+}

@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f750e14baaabb2c4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "School/University-Prep/University.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eca9eeeba869748a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "School/University-Prep/University.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "74953ad7b8f3497a",
             "type": "leaf",
             "state": {
@@ -120,17 +91,7 @@
             }
           },
           {
-            "id": "0f1e846b18733d42",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "School/University-Prep/University.md"
-              }
-            }
-          },
-          {
-            "id": "1514bb9ac8bd9717",
+            "id": "e3f1a4735d760acb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -138,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,8 +117,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "471da4013a4e693c",
+  "active": "0b223b610532f854",
   "lastOpenFiles": [
+    "Personal",
+    "Untitled.md",
     "School/University-Prep/University.md",
     "School/University-Prep/University Scholarships.md",
     "Welcome.md",

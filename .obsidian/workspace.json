@@ -11,11 +11,10 @@
             "id": "471da4013a4e693c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "School/University-Prep/University.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -97,6 +96,41 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "cbdf3dc138aea707",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e411d3ea4fbe09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a02e491a13955a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -113,15 +147,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b223b610532f854",
+  "active": "471da4013a4e693c",
   "lastOpenFiles": [
+    "School/University-Prep/University.md",
     "Personal",
     "Untitled.md",
-    "School/University-Prep/University.md",
     "School/University-Prep/University Scholarships.md",
     "Welcome.md",
     "School/University-Prep",

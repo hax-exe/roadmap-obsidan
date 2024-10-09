@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9384517d0af03403",
+        "id": "3e243a756610448b",
         "type": "tabs",
         "children": [
           {
-            "id": "471da4013a4e693c",
+            "id": "cfc3918faa5dd5ca",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -150,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "471da4013a4e693c",
+  "active": "cfc3918faa5dd5ca",
   "lastOpenFiles": [
     "School/University-Prep/University.md",
     "Personal",

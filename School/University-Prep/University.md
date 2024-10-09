@@ -183,4 +183,94 @@ Open to: High School students entering first year of post-secondary STEM studies
 [Chris Huskilson Emera Scholarship](https://www.emera.com/community/scholarships)
 
 ---
+# Other Financial Aid/Scholarships 
 
+|   |   |
+|---|---|
+|Somahashi Scholarship|[https://scholartree.ca/scholarship/somahashi-scholarship/yEmvTKfHPK](https://scholartree.ca/scholarship/somahashi-scholarship/yEmvTKfHPK)|
+|Jay Nijholt Scholarship|[https://scholartree.ca/scholarship/jay-nijholt-scholarship/0yVGYK0BpE](https://scholartree.ca/scholarship/jay-nijholt-scholarship/0yVGYK0BpE)|
+|The Launchpad Scholarship by Tundra Technical|[https://scholartree.ca/scholarship/the-launchpad-scholarship-by-tundra-technical/yXmqSluF_7](https://scholartree.ca/scholarship/the-launchpad-scholarship-by-tundra-technical/yXmqSluF_7)|
+|Pretty Photoshop Actions Scholarship|[https://scholartree.ca/scholarship/pretty-photoshop-actions-scholarship/NIrQ2VurPs](https://scholartree.ca/scholarship/pretty-photoshop-actions-scholarship/NIrQ2VurPs)|
+|The Thomas Gallery Scholarship|[https://scholartree.ca/scholarship/the-thomas-gallery-scholarship/yA1Q_Vg2W](https://scholartree.ca/scholarship/the-thomas-gallery-scholarship/yA1Q_Vg2W)|
+|Gibson Custom Homes Construction Education Bursary|[https://scholartree.ca/scholarship/gibson-custom-homes-construction-education-bursary/NeVKc1PBlU](https://scholartree.ca/scholarship/gibson-custom-homes-construction-education-bursary/NeVKc1PBlU)|
+|3M National Student Fellowship|[https://scholartree.ca/scholarship/3m-national-student-fellowship/a3YvYXjD7](https://scholartree.ca/scholarship/3m-national-student-fellowship/a3YvYXjD7)|
+|Bursary and Mentorship Program|[https://scholartree.ca/scholarship/bursary-and-mentorship-program/aOXD2tUsE](https://scholartree.ca/scholarship/bursary-and-mentorship-program/aOXD2tUsE)|
+|R&D Systems Scholarship|[https://scholartree.ca/scholarship/r-and-d-systems-scholarship/NYVSrVsqe](https://scholartree.ca/scholarship/r-and-d-systems-scholarship/NYVSrVsqe)|
+|Mensa Canada Scholarship|[https://scholartree.ca/scholarship/mensa-canada-scholarship/Nak6_S0H6](https://scholartree.ca/scholarship/mensa-canada-scholarship/Nak6_S0H6)|
+|Burger King McLamore Foundation Scholarship|[https://scholartree.ca/scholarship/burger-king-mclamore-foundation-scholarship/Nf-Y321Hx](https://scholartree.ca/scholarship/burger-king-mclamore-foundation-scholarship/Nf-Y321Hx)|
+|Canada's Luckiest Student|[https://scholartree.ca/scholarship/canada-s-luckiest-student/NepTZqRWJa](https://scholartree.ca/scholarship/canada-s-luckiest-student/NepTZqRWJa)|
+|The RE/MAX 2023 Quest for Excellence|[https://scholartree.ca/scholarship/the-re-max-2023-quest-for-excellence/0CgHvGJKc](https://scholartree.ca/scholarship/the-re-max-2023-quest-for-excellence/0CgHvGJKc)|
+|AES Engineering Scholarship|[https://scholartree.ca/scholarship/aes-engineering-scholarship/NHvr6IfHx](https://scholartree.ca/scholarship/aes-engineering-scholarship/NHvr6IfHx)|
+|The Canadian Press Scholarship|[https://scholartree.ca/scholarship/the-canadian-press-scholarship/axrlCH9jA](https://scholartree.ca/scholarship/the-canadian-press-scholarship/axrlCH9jA)|
+|Novus Biologicals Scholarship|[https://scholartree.ca/scholarship/novus-biologicals-scholarship/NiO3V-8H6](https://scholartree.ca/scholarship/novus-biologicals-scholarship/NiO3V-8H6)|
+|TD Scholarship for Indigenous Peoples|[https://scholartree.ca/scholarship/td-scholarship-for-indigenous-peoples/aFqzBkmbv](https://scholartree.ca/scholarship/td-scholarship-for-indigenous-peoples/aFqzBkmbv)|
+|Jungle Scout’s Scholarship|[https://scholartree.ca/scholarship/jungle-scout-s-scholarship/0rzNnwtIW](https://scholartree.ca/scholarship/jungle-scout-s-scholarship/0rzNnwtIW)|
+|National Essay Contest|[https://scholartree.ca/scholarship/national-essay-contest/ykGNpeJ4c](https://scholartree.ca/scholarship/national-essay-contest/ykGNpeJ4c)|
+|Canada Memorial Foundation Scholarship|[https://scholartree.ca/scholarship/canada-memorial-foundation-scholarship/aZN0Cij_x](https://scholartree.ca/scholarship/canada-memorial-foundation-scholarship/aZN0Cij_x)|
+|LA Tutors Monthly Innovation in Education Scholarship|[https://scholartree.ca/scholarship/la-tutors-monthly-innovation-in-education-scholarship/0JexCibHm](https://scholartree.ca/scholarship/la-tutors-monthly-innovation-in-education-scholarship/0JexCibHm)|
+|Corporate Culture Scholarship|[https://scholartree.ca/scholarship/corporate-culture-scholarship/aGEydIaz8](https://scholartree.ca/scholarship/corporate-culture-scholarship/aGEydIaz8)|
+|Instant Record Check Scholarship|[https://scholartree.ca/scholarship/instant-record-check-scholarship/0Oj0ZWonE](https://scholartree.ca/scholarship/instant-record-check-scholarship/0Oj0ZWonE)|
+|Schulich Leader Scholarship|[https://scholartree.ca/scholarship/schulich-leader-scholarship/ytym0pt18](https://scholartree.ca/scholarship/schulich-leader-scholarship/ytym0pt18)|
+|The RBC Future Launch Scholarship|[https://scholartree.ca/scholarship/the-rbc-future-launch-scholarship/0L2rB1AHA](https://scholartree.ca/scholarship/the-rbc-future-launch-scholarship/0L2rB1AHA)|
+|Diversity Scholarship|[https://scholartree.ca/scholarship/diversity-scholarship/yVju5jx60](https://scholartree.ca/scholarship/diversity-scholarship/yVju5jx60)|
+|DEWALT Trades Scholarship|[https://scholartree.ca/scholarship/dewalt-trades-scholarship/0ugwFnQXW](https://scholartree.ca/scholarship/dewalt-trades-scholarship/0ugwFnQXW)|
+|Women in STEM Scholarship|[https://scholartree.ca/scholarship/women-in-stem-scholarship/ahZgtz13pW](https://scholartree.ca/scholarship/women-in-stem-scholarship/ahZgtz13pW)|
+|The Brandon Langhjelm Essay Contest|[https://scholartree.ca/scholarship/the-brandon-langhjelm-essay-contest/yephihDWQL](https://scholartree.ca/scholarship/the-brandon-langhjelm-essay-contest/yephihDWQL)|
+|ASHRAE Scholarship Program|[https://scholartree.ca/scholarship/ashrae-scholarship-program/ylByFa-9o](https://scholartree.ca/scholarship/ashrae-scholarship-program/ylByFa-9o)|
+|Clean Energy Experts Scholarship Program|[https://scholartree.ca/scholarship/clean-energy-experts-scholarship-program/aIPvx_tCt](https://scholartree.ca/scholarship/clean-energy-experts-scholarship-program/aIPvx_tCt)|
+|The Terry Fox Humanitarian Awards|[https://scholartree.ca/scholarship/the-terry-fox-humanitarian-awards/ahXsVdBd46](https://scholartree.ca/scholarship/the-terry-fox-humanitarian-awards/ahXsVdBd46)|
+|GoTranscript Academic Scholarship Program|[https://scholartree.ca/scholarship/gotranscript-academic-scholarship-program/a8LdhXjDf](https://scholartree.ca/scholarship/gotranscript-academic-scholarship-program/a8LdhXjDf)|
+|Canadian Northern Studies Trust|[https://scholartree.ca/scholarship/canadian-northern-studies-trust/N1U07DJ_z](https://scholartree.ca/scholarship/canadian-northern-studies-trust/N1U07DJ_z)|
+|Foundation Scholarships|[https://scholartree.ca/scholarship/foundation-scholarships/am-XDAqu3](https://scholartree.ca/scholarship/foundation-scholarships/am-XDAqu3)|
+|Foundation Awards|[https://scholartree.ca/scholarship/foundation-awards/01H01e2Kc](https://scholartree.ca/scholarship/foundation-awards/01H01e2Kc)|
+|Scholarship Program|[https://scholartree.ca/scholarship/scholarship-program/NC4cjGTjl](https://scholartree.ca/scholarship/scholarship-program/NC4cjGTjl)|
+|Eichenholz-SPIE Photonics Technician Scholarship|[https://scholartree.ca/scholarship/eichenholz-spie-photonics-technician-scholarship/0IFQMd6vv](https://scholartree.ca/scholarship/eichenholz-spie-photonics-technician-scholarship/0IFQMd6vv)|
+|Petro-Canada Award for Indigenous Students|[https://scholartree.ca/scholarship/petro-canada-award-for-indigenous-students/Numv9qi0u](https://scholartree.ca/scholarship/petro-canada-award-for-indigenous-students/Numv9qi0u)|
+|Donald Choi Canada Scholarship|[https://scholartree.ca/scholarship/donald-choi-canada-scholarship/NnNT4SF4x](https://scholartree.ca/scholarship/donald-choi-canada-scholarship/NnNT4SF4x)|
+|KCSF Bursary|[https://scholartree.ca/scholarship/kcsf-bursary/0sU7cH-Kx](https://scholartree.ca/scholarship/kcsf-bursary/0sU7cH-Kx)|
+|KCSF General Scholarship|[https://scholartree.ca/scholarship/kcsf-general-scholarship/ynCu7HQ_x](https://scholartree.ca/scholarship/kcsf-general-scholarship/ynCu7HQ_x)|
+|Storwell Foster Children Bursary Program|[https://scholartree.ca/scholarship/storwell-foster-children-bursary-program/0JrwEgnUU](https://scholartree.ca/scholarship/storwell-foster-children-bursary-program/0JrwEgnUU)|
+|Confident Writers Scholarship Essay Contest|[https://scholartree.ca/scholarship/confident-writers-scholarship-essay-contest/yPZkJlcF23](https://scholartree.ca/scholarship/confident-writers-scholarship-essay-contest/yPZkJlcF23)|
+|Ivy Panda Video Contest Scholarship for Students|[https://scholartree.ca/scholarship/ivy-panda-video-contest-scholarship-for-students/ytPsb4mA0](https://scholartree.ca/scholarship/ivy-panda-video-contest-scholarship-for-students/ytPsb4mA0)|
+|Dick Martin Scholarship Award|[https://scholartree.ca/scholarship/dick-martin-scholarship-award/agJtlcb_x](https://scholartree.ca/scholarship/dick-martin-scholarship-award/agJtlcb_x)|
+|VISUAL ART SCHOLARSHIP PROGRAM|[https://scholartree.ca/scholarship/visual-art-scholarship-program/a24EoXIOO](https://scholartree.ca/scholarship/visual-art-scholarship-program/a24EoXIOO)|
+|EnergyRates.Ca Scholarship|[https://scholartree.ca/scholarship/energyrates-ca-scholarship/N6GW95iaY](https://scholartree.ca/scholarship/energyrates-ca-scholarship/N6GW95iaY)|
+|Pretty Lightroom Presets Scholarship|[https://scholartree.ca/scholarship/pretty-lightroom-presets-scholarship/NT6PTkerPn](https://scholartree.ca/scholarship/pretty-lightroom-presets-scholarship/NT6PTkerPn)|
+|The B. Harper Bull Scholarship Awards|[https://scholartree.ca/scholarship/the-b-harper-bull-scholarship-awards/yMwHDsCef](https://scholartree.ca/scholarship/the-b-harper-bull-scholarship-awards/yMwHDsCef)|
+|Orvil L. Davie Memorial Fund|[https://scholartree.ca/scholarship/orvil-l-davie-memorial-fund/aY2akn1e7](https://scholartree.ca/scholarship/orvil-l-davie-memorial-fund/aY2akn1e7)|
+|North American Van Lines Canada Scholarship|[https://scholartree.ca/scholarship/north-american-van-lines-canada-scholarship/0LYBqC9IZ5](https://scholartree.ca/scholarship/north-american-van-lines-canada-scholarship/0LYBqC9IZ5)|
+|Allied Van Lines Scholarship|[https://scholartree.ca/scholarship/allied-van-lines-scholarship/N8faWXje7](https://scholartree.ca/scholarship/allied-van-lines-scholarship/N8faWXje7)|
+|STRIKE GROUP EDI SCHOLARSHIP PROGRAM|[https://scholartree.ca/scholarship/strike-group-edi-scholarship-program/0IH_RdOCU](https://scholartree.ca/scholarship/strike-group-edi-scholarship-program/0IH_RdOCU)|
+|BKK Scholarship|[https://scholartree.ca/scholarship/bkk-scholarship/0I1OdSFKA](https://scholartree.ca/scholarship/bkk-scholarship/0I1OdSFKA)|
+|The Louise Joanne Twerdy Leadership Bursary|[https://scholartree.ca/scholarship/the-louise-joanne-twerdy-leadership-bursary/anlpVaFKl](https://scholartree.ca/scholarship/the-louise-joanne-twerdy-leadership-bursary/anlpVaFKl)|
+|Out On Patrol Scholarships|[https://scholartree.ca/scholarship/out-on-patrol-scholarships/0_2S1hjm-](https://scholartree.ca/scholarship/out-on-patrol-scholarships/0_2S1hjm-)|
+|Kin Canada Bursaries|[https://scholartree.ca/scholarship/kin-canada-bursaries/aQN-Rep_V](https://scholartree.ca/scholarship/kin-canada-bursaries/aQN-Rep_V)|
+|Building Brighter Futures: Bursaries, Scholarships, and Awards|[https://scholartree.ca/scholarship/building-brighter-futures-bursaries-scholarships-and-awards/NUZ-MRowl](https://scholartree.ca/scholarship/building-brighter-futures-bursaries-scholarships-and-awards/NUZ-MRowl)|
+|Redeemer University Scholarship|[https://scholartree.ca/scholarship/redeemer-university-scholarship/acxRYU0fB0](https://scholartree.ca/scholarship/redeemer-university-scholarship/acxRYU0fB0)|
+|Tangerine $35,000 Scholarship|[https://scholartree.ca/scholarship/tangerine-35-000-scholarship/ydi_DCL1-](https://scholartree.ca/scholarship/tangerine-35-000-scholarship/ydi_DCL1-)|
+|WellBefore Scholarship Program|[https://scholartree.ca/scholarship/wellbefore-scholarship-program/0W6CnYCAU](https://scholartree.ca/scholarship/wellbefore-scholarship-program/0W6CnYCAU)|
+|Loans Canada Scholarship|[https://scholartree.ca/scholarship/loans-canada-scholarship/avpHkIZABj](https://scholartree.ca/scholarship/loans-canada-scholarship/avpHkIZABj)|
+|Cenovus Indigenous Scholarships|[https://scholartree.ca/scholarship/cenovus-indigenous-scholarships/azbUrQJHA](https://scholartree.ca/scholarship/cenovus-indigenous-scholarships/azbUrQJHA)|
+|Greg Goff Leadership Scholarship|[https://scholartree.ca/scholarship/greg-goff-leadership-scholarship/0JAqPyhii](https://scholartree.ca/scholarship/greg-goff-leadership-scholarship/0JAqPyhii)|
+|Jettly Scholarship|[https://scholartree.ca/scholarship/jettly-scholarship/Nbrwteoblf](https://scholartree.ca/scholarship/jettly-scholarship/Nbrwteoblf)|
+|TrustedPros Scholarships|[https://scholartree.ca/scholarship/trustedpros-scholarships/Nk5SzNBL4](https://scholartree.ca/scholarship/trustedpros-scholarships/Nk5SzNBL4)|
+|ServiceScape Scholarship|[https://scholartree.ca/scholarship/servicescape-scholarship/N03xiPkYN](https://scholartree.ca/scholarship/servicescape-scholarship/N03xiPkYN)|
+|JUMPING YOUTH BURSARY PROGRAM|[https://scholartree.ca/scholarship/jumping-youth-bursary-program/NKICMK4_O](https://scholartree.ca/scholarship/jumping-youth-bursary-program/NKICMK4_O)|
+|Car Detail Calgary Scholarship|[https://scholartree.ca/scholarship/car-detail-calgary-scholarship/y4xxcP_mF](https://scholartree.ca/scholarship/car-detail-calgary-scholarship/y4xxcP_mF)|
+|Valour Canada History & Heritage Scholarship|[https://scholartree.ca/scholarship/valour-canada-history-and-heritage-scholarship/yU6nqJuVG](https://scholartree.ca/scholarship/valour-canada-history-and-heritage-scholarship/yU6nqJuVG)|
+|Live Your Dream Awards|[https://scholartree.ca/scholarship/live-your-dream-awards/yPZSDBh54A](https://scholartree.ca/scholarship/live-your-dream-awards/yPZSDBh54A)|
+|The Elizabeth Greenshields Foundation Grant|[https://scholartree.ca/scholarship/the-elizabeth-greenshields-foundation-grant/aPgKOgvBE8](https://scholartree.ca/scholarship/the-elizabeth-greenshields-foundation-grant/aPgKOgvBE8)|
+|Canadian Institute of Planners Planning Student Bursaries|[https://scholartree.ca/scholarship/canadian-institute-of-planners-planning-student-bursaries/02lB6Nhi-](https://scholartree.ca/scholarship/canadian-institute-of-planners-planning-student-bursaries/02lB6Nhi-)|
+|Odenza Marketing Group Scholarship|[https://scholartree.ca/scholarship/odenza-marketing-group-scholarship/NujR54S4x](https://scholartree.ca/scholarship/odenza-marketing-group-scholarship/NujR54S4x)|
+|Canadian Society of Exploration Geophysicists Scholarships|[https://scholartree.ca/scholarship/canadian-society-of-exploration-geophysicists-scholarships/yFHee9XF-](https://scholartree.ca/scholarship/canadian-society-of-exploration-geophysicists-scholarships/yFHee9XF-)|
+|Indigenous Forestry Scholarship Program|[https://scholartree.ca/scholarship/indigenous-forestry-scholarship-program/NO40kttIz](https://scholartree.ca/scholarship/indigenous-forestry-scholarship-program/NO40kttIz)|
+|Animikii Scholarship|[https://scholartree.ca/scholarship/animikii-scholarship/NPXVnuqfmv](https://scholartree.ca/scholarship/animikii-scholarship/NPXVnuqfmv)|
+|The Arthur Paulin Automotive Aftermarket Scholarship Award|[https://scholartree.ca/scholarship/the-arthur-paulin-automotive-aftermarket-scholarship-award/N7R2zp9jV](https://scholartree.ca/scholarship/the-arthur-paulin-automotive-aftermarket-scholarship-award/N7R2zp9jV)|
+|TD Scholarship for Community Leadership|[https://scholartree.ca/scholarship/td-scholarship-for-community-leadership/NFjon0Fff](https://scholartree.ca/scholarship/td-scholarship-for-community-leadership/NFjon0Fff)|
+|Women Empowerment Foundation Scholarship|[https://scholartree.ca/scholarship/women-empowerment-foundation-scholarship/aAYgVyJQL-](https://scholartree.ca/scholarship/women-empowerment-foundation-scholarship/aAYgVyJQL-)|
+|Gillis Purcell Memorial Journalism Scholarship|[https://scholartree.ca/scholarship/gillis-purcell-memorial-journalism-scholarship/aPg-1Ctbl3](https://scholartree.ca/scholarship/gillis-purcell-memorial-journalism-scholarship/aPg-1Ctbl3)|
+|Loran Scholars Foundations Scholarship|[https://scholartree.ca/scholarship/loran-scholars-foundations-scholarship/0q6c1o346](https://scholartree.ca/scholarship/loran-scholars-foundations-scholarship/0q6c1o346)|
+|Pinsky Law New Venture Development Scholarship|[https://scholartree.ca/scholarship/pinsky-law-new-venture-development-scholarship/ax_linY-Q](https://scholartree.ca/scholarship/pinsky-law-new-venture-development-scholarship/ax_linY-Q)|
+|Voice Talent Online Scholarship|[https://scholartree.ca/scholarship/voice-talent-online-scholarship/yYSeLAkG8](https://scholartree.ca/scholarship/voice-talent-online-scholarship/yYSeLAkG8)|
+|Pierre Elliott Trudeau Foundation Scholarship|[https://scholartree.ca/scholarship/pierre-elliott-trudeau-foundation-scholarship/y1vs80R_6](https://scholartree.ca/scholarship/pierre-elliott-trudeau-foundation-scholarship/y1vs80R_6)|
+|Photography/Digital Art Contest|[https://scholartree.ca/scholarship/photography-digital-art-contest/NoOuqkhaF](https://scholartree.ca/scholarship/photography-digital-art-contest/NoOuqkhaF)|

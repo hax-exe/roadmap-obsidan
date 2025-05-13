@@ -32,6 +32,8 @@ Winter 2026 (Jan 07 - Apr 09)
 	- Case Studies in Computing & Tutorial
 - CSCI 1315 (CRN: **20734**) (1:35pm - 2:25pm; Mon, Wed, Fri)
 - ^ T02 (CRN: **20737**) (11:35am - 12:55pm; Tue)
+	- Discrete Math & Tutorial
 - CSCI 1109 (Lab) (CRN: **20702**) (10:05am - 11:25am; Wed, Fri)
 - ^ B01 (CRN: **20703**) (2:35pm - 3:55pm; Tue, Thu)
+	- Experimental Robotics & Lab
 - Free Elective:

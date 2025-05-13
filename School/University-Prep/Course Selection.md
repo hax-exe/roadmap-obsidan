@@ -2,7 +2,7 @@
 
 ---
 
-Fall 2025 (Sept 02 - Dec 03)
+### Fall 2025 (Sept 02 - Dec 03)
 
 - CSCI 1110 (CRN: **10739**) (2:35pm - 3:55pm; Mon, Wed)
 - ^ B03 (CRN: **10744**) (2:35pm - 3:55pm; Thu)
@@ -34,7 +34,7 @@ Fall 2025 (Sept 02 - Dec 03)
 
 ---
 
-Winter 2026 (Jan 07 - Apr 09)
+### Winter 2026 (Jan 07 - Apr 09)
 
 - CSCI 1120 (CRN: **20720**) (8:35am - 9:25am; Tue, Thu, Fri)
 	- Intro to Computer Systems

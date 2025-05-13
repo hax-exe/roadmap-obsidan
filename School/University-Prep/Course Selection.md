@@ -36,4 +36,7 @@ Winter 2026 (Jan 07 - Apr 09)
 - CSCI 1109 (Lab) (CRN: **20702**) (10:05am - 11:25am; Wed, Fri)
 - ^ B01 (CRN: **20703**) (2:35pm - 3:55pm; Tue, Thu)
 	- Experimental Robotics & Lab
-- Free Elective:
+- ENGL 1111 (CRN: **21096**) (2:35pm - 3:55pm; Mon, Wed)
+- ^ T01 (CRN: **21098**) (2:35pm - 3:55pm; Wed)
+	- University Writing, Elective, no conflict
+	- ![[Pasted image 20250513104005.png]]

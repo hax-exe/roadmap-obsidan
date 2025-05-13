@@ -1,10 +1,3 @@
-# University Options
---- 
-
-> Dalhousie University 
-> St. Mary's University
-> Acadia University
-> University of Toronto
 
 # University Financial Aid options
 --- 

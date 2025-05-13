@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "07b21959cd1d5c0d",
@@ -197,8 +198,8 @@
   },
   "active": "38917168d4bc91d6",
   "lastOpenFiles": [
-    "School/University-Prep/Scholarships.md",
     "School/University-Prep/Course Selection.md",
+    "School/University-Prep/Scholarships.md",
     "Untitled.canvas",
     "Personal",
     "School/University-Prep/University Scholarships.md",

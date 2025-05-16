@@ -17,7 +17,7 @@
 	- Lecture: **Goldberg Computer Science Building**
 	- Tutorial: **Goldberg Computer Science Building**
 - ASSC 1800 (CRN: **10157**) (11:35am - 1:25pm; Wed)
-- ^ T04 (CRN: **10161**) (10:35am - 11:25am; Fri)
+- ^ T04 (CRN: **10164**) (10:35am - 11:25am; Mon)
 	- Computing and Society in History
 	- Lecture: **Killam Library**
 	- Tutorial: **McCain Arts & Social Science Building**

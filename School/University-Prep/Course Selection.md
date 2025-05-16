@@ -40,7 +40,7 @@
 	- Intro to Computer Systems
 	- Lecture: **LSC-Common Area**
 - ASSC 1801 (CRN: **20146**) (3:35pm - 5:25pm; Mon)
-- ^ T01 (CRN: **20147**) (11:35am - 12:25pm; Fri)
+- ^ T05 (CRN: **20151**) (4:35pm - 5:25pm; Thu)
 	- Case Studies in Computing & Tutorial
 	- Lecture: **McCain Arts & Social Science Building**
 	- Tutorial: **McCain Arts & Social Science Building**

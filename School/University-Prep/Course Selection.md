@@ -32,12 +32,12 @@
 
 ### Winter 2026 (Jan 07 - Apr 09)
 
-- CSCI 1110 (CRN: **20711**) (8:35am - 9:25am; Tue, Thu)
+- CSCI 1110 (CRN: **20711**) (1:05pm - 2:25pm; Tue, Thu)
 	- Intro to Computer Science & Lab
 - ^ B04 (CRN: **20718**) (2:35pm - 3:55pm; Wed)
 	- Lecture: **LSC-Psychology**
 	- Lab: **Goldberg Computer Science Building**
-- CSCI 1170 (CRN: **20725**) (8:35am - 9:55am; Mon, Wed)
+- CSCI 1170 (CRN: **20725**) (11:35am - 12:55pm; Mon, Wed)
 	- Intro to Web Design & Devel + Lab
 - ^ B01 (CRN: **20728**) (2:35pm - 4:25pm; Fri)
 	- Lecture: **Kenneth C. Rowe Management Building**
